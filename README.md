@@ -9,7 +9,8 @@
 
 
 - 🌱 I’m currently learning **JavaScript, HTML5 and CSS3**
-
+- 📍 Pravets, Bulgaria
+- ✨ 24 years old
 - 📫 How to reach me **ventsislavvdimitrov@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
