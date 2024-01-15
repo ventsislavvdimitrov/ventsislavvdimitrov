@@ -4,7 +4,7 @@
 
 
 
-<h3 align="center">A passionate Web developer.
+<h3 align="center">A passionate iOS developer.
 </h3>
 <img align="right" alt="Coding" width="400" src="https://cdni.iconscout.com/illustration/premium/thumb/coder-3462295-2895977.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ventsislavvdimitrov&label=Profile%20views&color=0e75b6&style=flat" alt="ventsislavvdimitrov" /> </p>
